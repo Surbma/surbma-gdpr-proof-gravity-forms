@@ -4,7 +4,7 @@ Donate link: https://surbma.com/donate/
 Tags: gdpr, form, forms, gravity forms, gravityforms
 Requires at least: 4.6
 Tested up to: 4.9
-Stable tag: 1.0
+Stable tag: 2.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -54,6 +54,11 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
-= 1.0.0 =
+= 2.0 =
+
+- Added conditions to check if Gravity Forms is activated.
+- Added admin notification, when this add-on is active, but Gravity Forms is not active.
+
+= 1.0 =
 
 - Initial commit.
