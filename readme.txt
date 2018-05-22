@@ -4,13 +4,15 @@ Donate link: https://surbma.com/donate/
 Tags: gdpr, form, forms, gravity forms, gravityforms
 Requires at least: 4.6
 Tested up to: 4.9
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Makes your Gravity Forms forms GDPR compatible by disabling IP address saving and it also deletes all entries after submission, so no personal data will be saved in the WordPress installation's database.
+This Gravity Forms add-on is helping you to meet GDPR compliance by disabling IP address saving and it also deletes all entries after submission.
 
 == Description ==
+
+This Gravity Forms add-on is helping you to meet GDPR compliance by disabling IP address saving and it also deletes all entries after submission, so no personal data will be saved in the WordPress installation's database.
 
 **IMPORTANT!** There is no settings and options for this plugin. There is no admin menu or page for this plugin. It just works! When you activate the plugin, all features will be active:
 - IP Anonymization
@@ -54,10 +56,14 @@ It is the reverse version of my last name. ;)
 
 == Changelog ==
 
+= 2.1 =
+
+- TWEAK: Giving a clear description of this plugin's job.
+
 = 2.0 =
 
-- Added conditions to check if Gravity Forms is activated.
-- Added admin notification, when this add-on is active, but Gravity Forms is not active.
+- NEW: Added conditions to check if Gravity Forms is activated.
+- NEW: Added admin notification, when this add-on is active, but Gravity Forms is not active.
 
 = 1.0 =
 

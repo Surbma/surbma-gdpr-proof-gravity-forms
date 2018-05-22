@@ -3,9 +3,9 @@
 /*
 Plugin Name: Surbma - GDPR Proof Gravity Forms
 Plugin URI: https://surbma.com/wordpress-plugins/
-Description: Makes your Gravity Forms forms GDPR compatible.
+Description: Gravity Forms add-on to help meet GDPR compliance.
 
-Version: 2.0
+Version: 2.1
 
 Author: Surbma
 Author URI: https://surbma.com/
