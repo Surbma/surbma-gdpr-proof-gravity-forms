@@ -1,10 +1,11 @@
-=== Surbma - GDPR Proof Gravity Forms ===
-Contributors: Surbma
+=== Surbma | GDPR Proof Gravity Forms ===
+Contributors: Surbma, CherryPickStudios
 Donate link: https://surbma.com/donate/
 Tags: gdpr, form, forms, gravity forms, gravityforms
-Requires at least: 4.6
-Tested up to: 4.9
-Stable tag: 2.1
+Requires at least: 5.1
+Tested up to: 5.3
+Stable tag: 3.0
+Requires PHP: 7.0
 License: GPLv2
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -13,6 +14,9 @@ This Gravity Forms add-on is helping you to meet GDPR compliance by disabling IP
 == Description ==
 
 This Gravity Forms add-on is helping you to meet GDPR compliance by disabling IP address saving and it also deletes all entries after submission, so no personal data will be saved in the WordPress installation's database.
+
+This plugin is a Gravity Forms add-on, so you need to buy the <a href="https://surbma.com/go/gravityforms/" target="_blank">Gravity Forms</a> (affiliate link) plugin first.
+
 
 **IMPORTANT!** There is no settings and options for this plugin. There is no admin menu or page for this plugin. It just works! When you activate the plugin, all features will be active:
 - IP Anonymization
@@ -32,16 +36,16 @@ Please feel free to contribute, help or recommend any new features for my plugin
 
 **Do you want to know more about me?**
 
-Visit my webpage: [Surbma.com](http://surbma.com/)
+Visit my webpage: [Surbma.com](https://surbma.com/)
 
 **Do you like and use my free plugins?**
 
-You can donate me for FREE here: [Surbma.com](http://surbma.com/donate/)
+You can donate me for FREE here: [Surbma.com](https://surbma.com/donate/)
 
 == Installation ==
 
 1. Upload `surbma-gdpr-proof-gravity-forms` folder to the `/wp-content/plugins/` directory
-2. Activate the Surbma - GDPR Proof Gravity Forms plugin through the 'Plugins' menu in WordPress
+2. Activate the Surbma | GDPR Proof Gravity Forms plugin through the 'Plugins' menu in WordPress
 3. That's it. :)
 
 == Frequently Asked Questions ==
@@ -55,6 +59,13 @@ This plugin shows a simple popup for every new visitors with two options: accept
 It is the reverse version of my last name. ;)
 
 == Changelog ==
+
+= 3.0 =
+
+Release date: 2020-02-10
+
+- TWEAK - Tested with WordPress 5.3 version.
+- TWEAK - Updated to use a new way to deploy it to wp.org repo.
 
 = 2.1 =
 

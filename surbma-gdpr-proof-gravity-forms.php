@@ -1,11 +1,11 @@
 <?php
 
 /*
-Plugin Name: Surbma - GDPR Proof Gravity Forms
+Plugin Name: Surbma | GDPR Proof Gravity Forms
 Plugin URI: https://surbma.com/wordpress-plugins/
 Description: Gravity Forms add-on to help meet GDPR compliance.
 
-Version: 2.1
+Version: 3.0
 
 Author: Surbma
 Author URI: https://surbma.com/
